@@ -1,4 +1,4 @@
-RPCS3
+rpcs3-user-friendly-edition a more user friendly apprch of using rpcs3
 =====
 
 [![Build Status](https://travis-ci.org/RPCS3/rpcs3.svg?branch=master)](https://travis-ci.org/RPCS3/rpcs3)
